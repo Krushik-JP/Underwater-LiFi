@@ -44,10 +44,10 @@ This study investigates the use of IR light for underwater communication. IR LED
 
 ## 📁 Contents
 
-- `/Hardware`: Circuit schematic and component list
+- `/Hardware`: Component list
 - `/Code`: Arduino sketch
 - `/Results`: Collected experimental data
-- `/Images`: Photos of the setup (to be added)
+- `/Images`: Photos of the setup 
 - `/Paper`: Final paper (PDF)
 
 ## 📌 Applications
