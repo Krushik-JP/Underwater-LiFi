@@ -19,13 +19,13 @@ This study investigates the use of IR light for underwater communication. IR LED
 
 
 ### Transmitter Setup
-![Transmitter Setup] <img src="Images/Transmitter.jpg" alt="IR LED" width="400"/>
+<img src="Images/Transmitter.jpg" alt="IR LED" width="400"/>
 
 ### Receiver Setup
-![Receiver Setup]<img src="Images/receiver.jpg" alt="IR LED" width="400"/>
+<img src="Images/receiver.jpg" alt="IR LED" width="400"/>
 
 ### Full communication
-![Final setup]<img src="Images/Final setup.jpg" alt="IR LED" width="400"/>
+<img src="Images/Final setup.jpg" alt="IR LED" width="400"/>
 
 ## 💡 Features
 
