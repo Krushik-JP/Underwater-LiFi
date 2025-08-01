@@ -16,6 +16,17 @@ This study investigates the use of IR light for underwater communication. IR LED
 - Waterproof casing
 - Supporting passive components
 
+
+
+### Transmitter Setup
+![Transmitter Setup](Images/Transmitter.jpg)
+
+### Receiver Setup
+![Receiver Setup](Images/receiver.jpg)
+
+### Full communication
+![Final setup](Images/Final setup.jpg)
+
 ## 💡 Features
 
 - Real-time IR-based communication up to 5 meters
