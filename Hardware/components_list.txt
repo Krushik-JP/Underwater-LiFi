@@ -1,0 +1,6 @@
+2x Arduino Uno
+1x IR LED (850nm)
+1x TSOP
+1x DHT11 Sensor
+1x HC-SR04 Ultrasonic Sensor
+Wires, Waterproof Casing
