@@ -10,7 +10,7 @@ This study investigates the use of IR light for underwater communication. IR LED
 
 - Arduino Uno
 - IR LED (850nm)
-- Photodiode
+- TSOP37
 - DHT11 (Temperature & Humidity Sensor)
 - HC-SR04 (Ultrasonic Distance Sensor)
 - Waterproof casing
